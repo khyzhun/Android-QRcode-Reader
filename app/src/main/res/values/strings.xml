@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCode-Scanner</string>
+    <string name="default_text">Please focus on Camera to Scan QR Code</string>
+</resources>
